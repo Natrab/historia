@@ -47,7 +47,7 @@ img {
     <link href="st" rel="stylesheet" type="text/css">
     <meta charset="utf-8">
     <title>Terra Media</title>
-    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=' rel='stylesheet' type='text/css'>
   </head>
   <body>
     <h1>A desolação de Hotrico</h1>
