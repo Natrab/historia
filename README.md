@@ -14,7 +14,7 @@ h1 {
 }
 
 p, li {
-  font-size: 16px;  
+  font-size: 36px;  
   line-height: 2;
   letter-spacing: 1px;
 }
@@ -55,7 +55,8 @@ img {
 
     
 
-    <p> Nas terras da Escóssia nasceu um garoto chamado Hotrico, no clã do mar(um dos quarto clãs lendários da Escóssia), na costa oriental.
+ <p>
+    Nas terras da Escóssia nasceu um garoto chamado Hotrico, no clã do mar(um dos quarto clãs lendários da Escóssia), na costa oriental.
 Seu clã era famoso pelos seus navegadores, e por seus navios velozes, também por navegarem os mares do norte, atrás do precioso camarão vermelho (e outros pescados).
 Os quatro clãs do norte, clã do mar, clã das montanhas, clã dos vales e clã dos leões (famosos pela sua força), formavam a união do norte, rival perpétuo da galeses do sul, também chamados de filhos do dragão. Lutam pelas ilhas da Bretanha dês dos tempos antigos, o tempo dos patriarcas.
 No meio disto tudo nasce Hotrico, mas nossa história começa aos 12 anos, na sua primeira viagem ao mar do norte, no seu navio estava grande parte da sua família, e com seu navio foram outros 5. Depois de atravessar fortes tempestades eles lotam os navios de pescado, no verão era a melhor época para se pescar.
