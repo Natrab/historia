@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <stye>
+  <style>
   html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
