@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <style>
+  <stye>
   html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
@@ -14,7 +14,7 @@ h1 {
 }
 
 p, li {
-  font-size: 36px;  
+  font-size: 16px;  
   line-height: 2;
   letter-spacing: 1px;
 }
